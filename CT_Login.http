@@ -1,0 +1,6 @@
+@CT_Login_HostAddress = http://localhost:5255
+
+GET {{CT_Login_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
